@@ -1,7 +1,3 @@
-Certainly! Here's a readme file for the program:
-
----
-
 ## Divisors Display Program
 
 This program prompts the user to enter a number and displays its divisors. The divisors of a number are the numbers that divide the given number without leaving a remainder.
